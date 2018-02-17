@@ -32,6 +32,12 @@ read -sr SSID
 echo "Insert password: "
 read -sr PASSWORD
 
+
+
+#missing sed part to customize conf files
+
+#missing copying files to proper location
+
 echo "Insert Pi-Hole WEB-GUI password (http://raspberry-ip/admin): "
 
 pihole -a -p 
