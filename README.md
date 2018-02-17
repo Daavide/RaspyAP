@@ -24,3 +24,7 @@ Here related packages and script.
 
 
 
+#Interesting blocklist:
+
+https://wally3k.github.io/
+
